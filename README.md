@@ -163,3 +163,9 @@ python test_rbac.py
 ## 👤 Author
 
 **Kunal Kishor**
+
+---
+
+## Source attribution
+
+This repository is based on the public project [codebykkishor/student-management-system](https://github.com/codebykkishor/student-management-system).
